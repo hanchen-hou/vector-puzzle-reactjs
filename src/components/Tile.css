@@ -1,0 +1,6 @@
+.game-board .tile {
+    outline: 1px solid black;
+    outline-offset: -1px;
+
+    z-index: 1;
+}
