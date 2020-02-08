@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vector-puzzle-reactjs/static/css/main.5605c31e.chunk.css",
-    "main.js": "/vector-puzzle-reactjs/static/js/main.66d29b41.chunk.js",
-    "main.js.map": "/vector-puzzle-reactjs/static/js/main.66d29b41.chunk.js.map",
+    "main.css": "/vector-puzzle-reactjs/static/css/main.9f336d69.chunk.css",
+    "main.js": "/vector-puzzle-reactjs/static/js/main.90dc74fb.chunk.js",
+    "main.js.map": "/vector-puzzle-reactjs/static/js/main.90dc74fb.chunk.js.map",
     "runtime-main.js": "/vector-puzzle-reactjs/static/js/runtime-main.00198279.js",
     "runtime-main.js.map": "/vector-puzzle-reactjs/static/js/runtime-main.00198279.js.map",
     "static/js/2.0d485fdb.chunk.js": "/vector-puzzle-reactjs/static/js/2.0d485fdb.chunk.js",
     "static/js/2.0d485fdb.chunk.js.map": "/vector-puzzle-reactjs/static/js/2.0d485fdb.chunk.js.map",
     "index.html": "/vector-puzzle-reactjs/index.html",
-    "precache-manifest.7a902e15d3754ff80ed1d73e12466d0f.js": "/vector-puzzle-reactjs/precache-manifest.7a902e15d3754ff80ed1d73e12466d0f.js",
+    "precache-manifest.27e81c4bada4188df7b521c07b07019e.js": "/vector-puzzle-reactjs/precache-manifest.27e81c4bada4188df7b521c07b07019e.js",
     "service-worker.js": "/vector-puzzle-reactjs/service-worker.js",
-    "static/css/main.5605c31e.chunk.css.map": "/vector-puzzle-reactjs/static/css/main.5605c31e.chunk.css.map",
+    "static/css/main.9f336d69.chunk.css.map": "/vector-puzzle-reactjs/static/css/main.9f336d69.chunk.css.map",
     "static/js/2.0d485fdb.chunk.js.LICENSE.txt": "/vector-puzzle-reactjs/static/js/2.0d485fdb.chunk.js.LICENSE.txt",
     "static/media/0.png": "/vector-puzzle-reactjs/static/media/0.b4b28463.png",
     "static/media/1.png": "/vector-puzzle-reactjs/static/media/1.1fea833f.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.00198279.js",
     "static/js/2.0d485fdb.chunk.js",
-    "static/css/main.5605c31e.chunk.css",
-    "static/js/main.66d29b41.chunk.js"
+    "static/css/main.9f336d69.chunk.css",
+    "static/js/main.90dc74fb.chunk.js"
   ]
 }

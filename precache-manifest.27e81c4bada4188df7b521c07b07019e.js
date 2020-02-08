@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "411c997078e30055b60a9c29fce1d154",
+    "revision": "8c024902d914a58992913284bda4836c",
     "url": "/vector-puzzle-reactjs/index.html"
   },
   {
-    "revision": "c30df9581241becb3306",
-    "url": "/vector-puzzle-reactjs/static/css/main.5605c31e.chunk.css"
+    "revision": "969b9e14d5122e3114d2",
+    "url": "/vector-puzzle-reactjs/static/css/main.9f336d69.chunk.css"
   },
   {
     "revision": "1da1309589f7ded7f77f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vector-puzzle-reactjs/static/js/2.0d485fdb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c30df9581241becb3306",
-    "url": "/vector-puzzle-reactjs/static/js/main.66d29b41.chunk.js"
+    "revision": "969b9e14d5122e3114d2",
+    "url": "/vector-puzzle-reactjs/static/js/main.90dc74fb.chunk.js"
   },
   {
     "revision": "4bfdbe77b41959dd374c",
