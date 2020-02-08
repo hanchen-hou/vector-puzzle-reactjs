@@ -1,15 +1,13 @@
 .game-board {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr) 40px;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
 
     width: 600px;
     max-height: 600px;
     margin: 10px;
-
-    box-shadow: 5px 5px 4px #7f7f7f;
 }
 
 @media screen and (max-width: 700px), (max-height: 700px) {
@@ -31,4 +29,19 @@
 
     width: 100%;
     display: block;
+
+    box-shadow: 5px 5px 4px #000000;
+}
+
+.game-board .step-counter {
+    grid-area: 4 / 1 / 4 / 1;
+
+    width: 100%;
+    display: block;
+
+    font-family: Sans-serif, "Times New Roman", Times, serif;
+    font-size: 20px;
+
+    align-self: center;
+
 }

@@ -30,6 +30,7 @@ export default class GameBoard extends React.Component{
         
         this.state = {
             current: shuffleBoard(3, 3),
+            stepCounter: 0,
         };
         
         this.createTiles = this.createTiles.bind(this);
@@ -59,6 +60,7 @@ export default class GameBoard extends React.Component{
             
             this.setState({
                 current: newBoard,
+                stepCounter: this.state.stepCounter + 1,
             });
             
             if(isWin(newBoard)){
@@ -98,6 +100,7 @@ export default class GameBoard extends React.Component{
             <div className="game-board">
                 {this.createTiles()}
                 <img className="background" src={originImage} alt="bg"/>
+                <p className="step-counter">Step: {this.state.stepCounter}</p>
             </div>
         )
     }
