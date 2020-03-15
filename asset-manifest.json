@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vector-puzzle-reactjs/static/css/main.9f336d69.chunk.css",
-    "main.js": "/vector-puzzle-reactjs/static/js/main.90dc74fb.chunk.js",
-    "main.js.map": "/vector-puzzle-reactjs/static/js/main.90dc74fb.chunk.js.map",
-    "runtime-main.js": "/vector-puzzle-reactjs/static/js/runtime-main.00198279.js",
-    "runtime-main.js.map": "/vector-puzzle-reactjs/static/js/runtime-main.00198279.js.map",
-    "static/js/2.0d485fdb.chunk.js": "/vector-puzzle-reactjs/static/js/2.0d485fdb.chunk.js",
-    "static/js/2.0d485fdb.chunk.js.map": "/vector-puzzle-reactjs/static/js/2.0d485fdb.chunk.js.map",
+    "main.css": "/vector-puzzle-reactjs/static/css/main.f60d32fe.chunk.css",
+    "main.js": "/vector-puzzle-reactjs/static/js/main.81e6ed77.chunk.js",
+    "main.js.map": "/vector-puzzle-reactjs/static/js/main.81e6ed77.chunk.js.map",
+    "runtime-main.js": "/vector-puzzle-reactjs/static/js/runtime-main.c35c8de6.js",
+    "runtime-main.js.map": "/vector-puzzle-reactjs/static/js/runtime-main.c35c8de6.js.map",
+    "static/js/2.1ce4c640.chunk.js": "/vector-puzzle-reactjs/static/js/2.1ce4c640.chunk.js",
+    "static/js/2.1ce4c640.chunk.js.map": "/vector-puzzle-reactjs/static/js/2.1ce4c640.chunk.js.map",
     "index.html": "/vector-puzzle-reactjs/index.html",
-    "precache-manifest.27e81c4bada4188df7b521c07b07019e.js": "/vector-puzzle-reactjs/precache-manifest.27e81c4bada4188df7b521c07b07019e.js",
+    "precache-manifest.ac5a9633da09169fe90d01602dcf601c.js": "/vector-puzzle-reactjs/precache-manifest.ac5a9633da09169fe90d01602dcf601c.js",
     "service-worker.js": "/vector-puzzle-reactjs/service-worker.js",
-    "static/css/main.9f336d69.chunk.css.map": "/vector-puzzle-reactjs/static/css/main.9f336d69.chunk.css.map",
-    "static/js/2.0d485fdb.chunk.js.LICENSE.txt": "/vector-puzzle-reactjs/static/js/2.0d485fdb.chunk.js.LICENSE.txt",
+    "static/css/main.f60d32fe.chunk.css.map": "/vector-puzzle-reactjs/static/css/main.f60d32fe.chunk.css.map",
+    "static/js/2.1ce4c640.chunk.js.LICENSE.txt": "/vector-puzzle-reactjs/static/js/2.1ce4c640.chunk.js.LICENSE.txt",
     "static/media/0.png": "/vector-puzzle-reactjs/static/media/0.b4b28463.png",
     "static/media/1.png": "/vector-puzzle-reactjs/static/media/1.1fea833f.png",
     "static/media/2.png": "/vector-puzzle-reactjs/static/media/2.2ea2e1c5.png",
@@ -24,9 +24,9 @@
     "static/media/origin.png": "/vector-puzzle-reactjs/static/media/origin.068bcbaa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.00198279.js",
-    "static/js/2.0d485fdb.chunk.js",
-    "static/css/main.9f336d69.chunk.css",
-    "static/js/main.90dc74fb.chunk.js"
+    "static/js/runtime-main.c35c8de6.js",
+    "static/js/2.1ce4c640.chunk.js",
+    "static/css/main.f60d32fe.chunk.css",
+    "static/js/main.81e6ed77.chunk.js"
   ]
 }
